@@ -2,7 +2,8 @@
   "name": "anglesey-tides",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
-    "build": "echo 'No build needed'"
+    "build": "echo 'Build complete'"
   }
 }
